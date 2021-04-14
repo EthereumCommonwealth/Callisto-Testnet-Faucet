@@ -28,7 +28,7 @@
             </b-form-group>
 
             <b-button type="submit" variant="primary">
-              Get Tesnet CLO
+              Get Testnet CLO
             </b-button>
           </b-form>
           <b-card class="mt-3" header="Request Result">
